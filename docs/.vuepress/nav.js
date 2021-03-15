@@ -13,9 +13,9 @@ const design_pattern = {
   link: "/design-pattern/",
 };
 
-const android = {
-  text: "安卓",
-  link: "/android/",
+const ios = {
+  text: "iOS",
+  link: "/ios/",
 };
 
 const problems = {
