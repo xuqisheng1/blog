@@ -28,11 +28,4 @@ const ideas = {
   link: "/ideas/",
 };
 
-module.exports = [
-  web_front,
-  algorithm,
-  design_pattern,
-  android,
-  problems,
-  ideas,
-];
+module.exports = [web_front, algorithm, design_pattern, ios, problems, ideas];
