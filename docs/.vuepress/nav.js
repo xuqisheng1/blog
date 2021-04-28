@@ -1,6 +1,6 @@
-const web_front = {
-  text: "前端",
-  link: "/web-front/",
+const networking_protocol = {
+  text: "网络协议",
+  link: "/networking-protocol/",
 };
 
 const algorithm = {
@@ -28,4 +28,11 @@ const ideas = {
   link: "/ideas/",
 };
 
-module.exports = [web_front, algorithm, design_pattern, ios, problems, ideas];
+module.exports = [
+  networking_protocol,
+  algorithm,
+  design_pattern,
+  ios,
+  problems,
+  ideas,
+];
