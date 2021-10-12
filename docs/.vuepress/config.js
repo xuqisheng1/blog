@@ -12,7 +12,7 @@ module.exports = {
     sidebar,
     lastUpdated: "最后更新时间",
     docsDir: "docs",
-    repo: "https://miguoer.github.io/blog",
+    repo: "https://xuqisheng1.github.io/blog/",
   },
   extraWatchFiles: ["./nav.js", "./sidebar.js"],
   markdown: {

@@ -18,14 +18,14 @@ const ios = {
   link: "/ios/",
 };
 
+const js_study = {
+  text: "JS",
+  link: "/js-study/",
+};
+
 const problems = {
   text: "面试题",
   link: "/problems/",
-};
-
-const ideas = {
-  text: "想法",
-  link: "/ideas/",
 };
 
 module.exports = [
@@ -33,6 +33,6 @@ module.exports = [
   algorithm,
   design_pattern,
   ios,
+  js_study,
   problems,
-  ideas,
 ];
